@@ -130,7 +130,7 @@ function Home(props) {
                                         </Grid>
                                     })}
                                 </Grid> </div> :
-                            <SnackBarAlert message="No Products found, Please make changes to filter to to search products" />
+                            <SnackBarAlert message="No Products found, Please make changes to filter to search products" />
                         }
                     </div>
 
